@@ -1,4 +1,4 @@
-# Data_Mart_DWH
+# DWH: A marketplace for handcrafted goods from different countries.
 
 ## Project Overview
 
