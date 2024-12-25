@@ -13,6 +13,11 @@ This project demonstrates how to:
 * Perform incremental loading of data from the sources into the DWH and from the DWH into the final data mart.
 * Validate the end-to-end flow by simulating new orders and watching them appear in the final reporting layer.
 
+## General scheme
+
+![Снимок экрана 2024-12-25 в 10 58 26 AM](https://github.com/user-attachments/assets/ca1f7341-1cbb-497c-922f-4d29a6284d84)
+
+
 ## Repository Structure
 
 * **Data sources/**
